@@ -1,0 +1,9 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{
+
+                Title = "Credits";
+
+                Text = "Modified By TheUme";
+
+                Duration = 3.5;
+
+            })
